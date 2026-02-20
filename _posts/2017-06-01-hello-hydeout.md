@@ -4,6 +4,8 @@ title: 4th IEEE International Workshop on the Internet of Time-Critical Things
 excerpt_separator:  <!--more-->
 ---
 
+![Piazza Maggiore, Bologna]({{ '/assets/images/piazza_maggiore.jpg' | relative_url }})
+
 IoTime 2026 is a workshop held in conjunction with the **[27th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2026)](https://www.cs.unibo.it/wowmom2026/)**.
 
 - Submission deadline: **March 22, 2026**
