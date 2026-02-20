@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 4th International Workshop on the Internet of Time-Critical Things
+title: 4th IEEE International Workshop on the Internet of Time-Critical Things
 excerpt_separator:  <!--more-->
 ---
 
-IoTime 2026 is a workshop held in conjunction with the **[IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2026)](https://www.cs.unibo.it/wowmom2026/)**.
+IoTime 2026 is a workshop held in conjunction with the **[27th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2026)](https://www.cs.unibo.it/wowmom2026/)**.
 
 - Submission deadline: **March 22, 2026**
 - Acceptance Notification: *April 12, 2026*
 - Camera-Ready Paper Submission Deadline: *April 26, 2026*
-- Conference days: *TBD*
+- Conference days: *June 16-19, 2026, Bologna, Italy*
 - Workshop day: *TBD*
 
 CALL FOR TECHNICAL PAPERS
