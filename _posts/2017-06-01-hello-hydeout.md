@@ -9,8 +9,8 @@ excerpt_separator:  <!--more-->
 IoTime 2026 is a workshop held in conjunction with the **[27th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2026)](https://www.cs.unibo.it/wowmom2026/)**: held in Bologna, Italy.
 
 - Submission deadline: <del>March 22, 2026</del> **April 5, 2026**
-- Acceptance Notification: *April 26, 2026*
-- Camera-Ready Paper Submission Deadline: *May 3, 2026*
+- Acceptance Notification: <del>April 12, 2026</del> *April 26, 2026*
+- Camera-Ready Paper Submission Deadline: <del>April 26, 2026</del> *May 3, 2026*
 - Conference days: *June 16-19, 2026, Bologna, Italy*
 - Workshop day: *June 16, 2026*
 
